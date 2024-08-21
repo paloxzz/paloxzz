@@ -19,10 +19,9 @@
   <img src="https://user-images.githubusercontent.com/6661165/90096358-dba16400-dd54-11ea-8e44-e181ada72616.gif" alt="Night Sky GIF" width="100%" />
 </p>
 
-### Hey there, I'm Priyanshu-aka-paloxzz!! 👋
 
-- 🌑 I love dark mode, sleep, and good music!! 🤍
-- 📚 Learning everything 🤡
+- An active sloth and Weeknd-Doja-Atlantic fan!!!
+- Learning everything (ofc, I'm a clown).
 
 <!-- Connect with me -->
 <h3 align="center">Connect with me:</h3>
