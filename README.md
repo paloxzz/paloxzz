@@ -9,8 +9,8 @@
   <a href="https://paloxzz.netlify.app">
     <img src="https://img.shields.io/website?label=paloxzz.netlify&style=for-the-badge&url=https%3A%2F%2Fpaloxzz.netlify.app" alt="Website">
   </a>
-  <a href="https://twitter.com/paloxzz">
-    <img src="https://img.shields.io/twitter/follow/paloxzz?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow">
+  <a href="https://www.linkedin.com/in/paloxzz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect">
   </a>
 </p>
 
@@ -18,7 +18,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/6661165/90096358-dba16400-dd54-11ea-8e44-e181ada72616.gif" alt="Night Sky GIF" width="100%" />
 </p>
-
 
 - An active sloth and Weeknd-Doja-Atlantic fan!!!
 - Learning everything (ofc, I'm a clown).
@@ -61,17 +60,35 @@
 <details>
   <summary>:zap: Stats & Streaks</summary>
   <p align="center">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paloxzz&theme=tokyonight&layout=compact" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paloxzz&theme=radical&layout=compact" />
   </p>
   <p align="center">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=paloxzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=paloxzz&show_icons=true&theme=radical&hide_border=true&bg_color=1c1c1c" />
   </p>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=paloxzz&theme=tokyonight&hide_border=true&background=0d1117" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=paloxzz&theme=radical&hide_border=true&background=1c1c1c" />
   </p>
 </details>
 
-<!-- Profile views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=paloxzz&label=Profile%20views&color=0e75b6&style=flat" alt="paloxzz" />
-</p>
+<div align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=paloxzz&color=blueviolet&style=for-the-badge)
+
+  <div style="font-family: 'Neon', sans-serif; font-size: 24px; color: #FF69B4; text-shadow: 0 0 5px #FF69B4; margin-top: 20px;">
+    I shoulda copped the one way!
+  </div>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/paloxzz/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/paloxzz/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/paloxzz/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
