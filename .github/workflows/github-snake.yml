@@ -1,0 +1,29 @@
+name: Generate Snake GIF
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate snake GIF
+        uses: Platane/snk@v3
+        with:
+          github_user_name: paloxzz
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Upload snake GIF
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake-gif
+          path: dist/github-snake.gif
