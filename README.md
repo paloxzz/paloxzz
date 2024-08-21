@@ -11,13 +11,15 @@
   </a>
   <a href="https://www.linkedin.com/in/paloxzz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect">
-  </a>
+</a>
+
 </p>
 
 <!-- About Me -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/6661165/90096358-dba16400-dd54-11ea-8e44-e181ada72616.gif" alt="Night Sky GIF" width="100%" />
 </p>
+
 
 - An active sloth and Weeknd-Doja-Atlantic fan!!!
 - Learning everything (ofc, I'm a clown).
@@ -71,24 +73,19 @@
 </details>
 
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=paloxzz&color=blueviolet&style=for-the-badge)
 
-  <div style="font-family: 'Neon', sans-serif; font-size: 24px; color: #FF69B4; text-shadow: 0 0 5px #FF69B4; margin-top: 20px;">
-    I shoulda copped the one way!
-  </div>
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/paloxzz/snk/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/paloxzz/snk/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/paloxzz/snk/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+<div align="center">
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=paloxzz&color=blueviolet&style=for-the-badge)
+
+<div style="font-family: 'Neon', sans-serif; font-size: 24px; color: #FF69B4; text-shadow: 0 0 5px #FF69B4; margin-top: 20px;">
+  I shoulda copped the one way!
 </div>
+
+
+
+
+
+
