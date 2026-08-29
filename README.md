@@ -23,9 +23,12 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/6661165/90096358-dba16400-dd54-11ea-8e44-e181ada72616.gif" alt="Night Sky GIF" width="100%" />
 </p>
-
-- An active sloth and Weeknd-Doja-Atlantic fan!!!
+<p align="center">
+- An active sloth & Weeknd-Doja-Atlantic fan.
+</p>
+<p align="center">
 - Learning everything (ofc, I'm a clown).
+</p>
 
 <!-- Tech stack -->
 <p align="center">
