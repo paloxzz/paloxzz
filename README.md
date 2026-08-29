@@ -24,21 +24,6 @@
 - An active sloth and Weeknd-Doja-Atlantic fan!!!
 - Learning everything (ofc, I'm a clown).
 
-<!-- Connect with me -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://paloxzz.in" target="_blank">
-    <img src="./img/globe-dark.svg" alt="Website" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/paloxzz" target="_blank">
-    <img src="./img/twitter-dark.svg" alt="Twitter" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/paloxzz" target="_blank">
-    <img src="./img/linkedin-dark.svg" alt="LinkedIn" width="40" />
-  </a>
-</p>
 
 <!-- Tools & Languages -->
 ### Languages and Tools:
