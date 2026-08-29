@@ -6,8 +6,8 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://paloxzz.netlify.app">
-    <img src="https://img.shields.io/website?label=paloxzz.netlify&style=for-the-badge&url=https%3A%2F%2Fpaloxzz.netlify.app" alt="Website">
+  <a href="https://paloxzz.in/">
+    <img src="https://img.shields.io/website?label=paloxzz.netlify&style=for-the-badge&url=https%3A%2F%2Fpaloxzz.in" alt="Website">
   </a>
   <a href="https://www.linkedin.com/in/paloxzz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect">
@@ -27,7 +27,7 @@
 <!-- Connect with me -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://paloxzz.netlify.app" target="_blank">
+  <a href="https://paloxzz.in" target="_blank">
     <img src="./img/globe-dark.svg" alt="Website" width="40" />
   </a>
   &nbsp;&nbsp;
@@ -37,10 +37,6 @@
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/paloxzz" target="_blank">
     <img src="./img/linkedin-dark.svg" alt="LinkedIn" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/messy.medulla" target="_blank">
-    <img src="./img/instagram-dark.svg" alt="Instagram" width="40" />
   </a>
 </p>
 
